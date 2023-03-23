@@ -1,10 +1,10 @@
-## Hey, I'm Niklas 👋
+# Hey, I'm Niklas 👋
 
 * I'm a founder and software developer based in Berlin.
 * I've been coding for 15 years.
 * I'm coaching founders and CEOs in learning how to code.
 
-### Terminal Tutor
+## Terminal Tutor
 
 * I'm building [Terminal Tutor](https://www.terminaltutor.com), an interactive tutorial for learning how to use the command line.
 * Within your browser, you get an interactive terminal where you can immediately try what you learn.
