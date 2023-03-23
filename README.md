@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hey, I'm Niklas 👋
+
+* I'm a founder and software developer based in Berlin.
+* I've been coding for 15 years.
+* I'm coaching founders and CEOs in learning how to code.
+
+### Terminal Tutor
+
+* I'm building [Terminal Tutor](https://www.terminaltutor.com), an interactive tutorial for learning how to use the command line.
+* Within your browser, you get an interactive terminal where you can immediately try what you learn.
+* After completing the tutorial, you'll know everything you need to work with the terminal productively.
 
 <!--
 **nikwen/nikwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
