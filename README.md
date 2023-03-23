@@ -1,4 +1,4 @@
-## Hey, I'm Niklas 👋
+### Hey, I'm Niklas 👋
 
 * I'm a founder and software developer based in Berlin.
 * I've been coding for 15 years.
