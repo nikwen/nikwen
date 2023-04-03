@@ -2,12 +2,12 @@
 
 * I'm a founder and software developer based in Berlin.
 * I've been coding for 15 years.
-* I'm coaching founders and CEOs in learning how to code.
+* I'm saving founders 10h/week through [software development coaching](https://www.nikwen.de).
 
-### Terminal Tutor
+### What I'm working on
 
-* I'm building [Terminal Tutor](https://www.terminaltutor.com), an interactive tutorial for learning how to use the command line.
-* Within your browser, you get an interactive terminal where you can immediately try what you learn.
+* At the moment, I'm developing interactive tech education products.
+* I'm starting with [Terminal Tutor](https://www.terminaltutor.com), an interactive tutorial for learning how to use the command line.
 * After completing the tutorial, you'll know everything you need to work with the terminal productively.
 
 <!--
