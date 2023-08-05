@@ -4,11 +4,11 @@
 * I've been coding for 15 years.
 * I'm saving founders 10h/week through [software development coaching](https://www.nikwen.de).
 
-### What I'm working on
+### Interesting products I've built
 
-* At the moment, I'm developing interactive tech education products.
-* I'm starting with [Terminal Tutor](https://www.terminaltutor.com), an interactive tutorial for learning how to use the command line.
-* After completing the tutorial, you'll know everything you need to work with the terminal productively.
+* **[Handclaps](https://www.handclaps.app)**, a beat video creation app for hip-hop music producers.
+* **[Terminal Tutor](https://www.terminaltutor.com)**, an interactive tutorial for learning to use the terminal.
+* **[All of my products](https://www.nikwen.de/projects)**
 
 <!--
 **nikwen/nikwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
