@@ -6,6 +6,7 @@
 
 ### Interesting products I've built
 
+* **[Megahit](https://www.megahit.app/)**, audience insights for newsletter authors.
 * **[Handclaps](https://www.handclaps.app)**, a beat video creation app for hip-hop music producers.
 * **[Terminal Tutor](https://www.terminaltutor.com)**, an interactive tutorial for learning to use the terminal.
 * **[All of my products](https://www.nikwen.de/projects)**
