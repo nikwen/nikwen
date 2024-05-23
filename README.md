@@ -1,15 +1,18 @@
 ### Hey, I'm Niklas 👋
 
 * I'm a founder and software developer based in Berlin.
-* I've been coding for 15 years.
-* I'm saving founders 10h/week through [software development coaching](https://www.nikwen.de).
+* I've been coding for 17 years.
 
 ### Interesting products I've built
 
-* **[Megahit](https://www.megahit.app/)**, audience insights for newsletter authors.
+* **[Megahit](https://www.megahit.app/)**, helping newsletters find sponsorship leads.
 * **[Handclaps](https://www.handclaps.app)**, a beat video creation app for hip-hop music producers.
 * **[Terminal Tutor](https://www.terminaltutor.com)**, an interactive tutorial for learning to use the terminal.
 * **[All of my products](https://www.nikwen.de/projects)**
+
+### Personal website
+
+[🔗 Link](https://www.nikwen.de)
 
 <!--
 **nikwen/nikwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
