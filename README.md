@@ -1,7 +1,8 @@
 ### Hey, I'm Niklas 👋
 
 * I'm a founder and software developer based in Berlin.
-* I've been coding for 17 years.
+* I help maintain [Electron](https://github.com/electron/electron). (For consulting, see below.)
+* I've been coding for 18 years.
 
 ### Interesting products I've built
 
@@ -9,6 +10,10 @@
 * **[Handclaps](https://www.handclaps.app)**, a beat video creation app for hip-hop music producers.
 * **[Terminal Tutor](https://www.terminaltutor.com)**, an interactive tutorial for learning to use the terminal.
 * **[All of my products](https://www.nikwen.de/projects)**
+
+### Electron consulting :electron:
+
+I'm open to doing a limited amount of Electron-related consulting. If interested, please send me an [email](mailto:dev@nikwen.de).
 
 ### Personal website
 
